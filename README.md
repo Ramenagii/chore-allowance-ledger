@@ -1,5 +1,7 @@
 # Chore Allowance Ledger
 
+[![CI](https://github.com/Ramenagii/chore-allowance-ledger/actions/workflows/ci.yml/badge.svg)](https://github.com/Ramenagii/chore-allowance-ledger/actions/workflows/ci.yml)
+
 A local-first family chore dashboard with a chore chart, allowance ledger, reward store, coupon printing, and a fairness view.
 
 ![Chore Allowance Ledger screenshot](./docs/screenshot.png)
