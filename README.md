@@ -2,6 +2,8 @@
 
 A local-first family chore dashboard with a chore chart, allowance ledger, reward store, coupon printing, and a fairness view.
 
+![Chore Allowance Ledger screenshot](./docs/screenshot.png)
+
 ## Features
 
 - Seeded demo family with Ava and Kai
@@ -24,5 +26,9 @@ npm run dev
 ```bash
 npm run build
 ```
+
+## Quality Gate
+
+GitHub Actions runs install, audit, tests, and production build checks on pushes and pull requests.
 
 The app keeps data in the browser via `localStorage`, so no accounts, backend, or cloud database are required for the demo.
