@@ -20,8 +20,8 @@
     "vitest": "^4.1.8"
   },
   "dependencies": {
-    "@vitejs/plugin-react": "^6.0.2",
-    "lucide-react": "^1.17.0",
+    "@vitejs/plugin-react": "^6.0.3",
+    "lucide-react": "^1.22.0",
     "react": "^19.2.7",
     "react-dom": "^19.2.7"
   }
